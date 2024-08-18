@@ -1,0 +1,19 @@
+.footer > div{
+    padding: 0px 32px;
+    display: flex;
+    margin: 4rem auto 2rem;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer p{
+    color: #8c8b8b;
+    font-size: 14px;
+}
+.f-links{
+    margin-top: 12px;
+    display: flex;
+    gap: 1rem;
+}
+.f-links > span{
+    font-weight: 500;
+}

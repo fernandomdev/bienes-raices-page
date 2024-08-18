@@ -1,0 +1,27 @@
+.getstarted{
+    padding: 0px 32px;
+    margin: 6rem auto;
+}
+.getstarted > .flexCenter{
+    gap: 1.5rem;
+    background: #4161df;
+    padding: 2rem;
+    border-radius: 10px;
+    border: 6px solid #5d77d6;
+    text-align: center;
+    flex-direction: column;
+}
+.g-title{
+    font-size: 1.8rem;
+    color: #fff;
+    font-weight: 600;
+}
+.g-description{
+    color: #ffffff96;
+}
+.getstarted .button{
+    background: #5a73d7;
+    border: 2px solid white;
+    box-shadow: 0px 23px 21px -8px rgba(136, 160, 255, .25);
+    border-radius: 10px;
+}

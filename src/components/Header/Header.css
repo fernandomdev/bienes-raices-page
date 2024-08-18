@@ -1,0 +1,16 @@
+.h-container{
+    justify-content: space-between !important;
+    padding: 1rem 1.5rem;
+}
+.h-wrapper{
+    color: #fff;
+}
+.h-container img{
+    height: 24px;
+    width: auto;
+}
+.h-menu{
+    color: #ffffffc7;
+    display: flex;
+    gap: 1.25rem;
+}
